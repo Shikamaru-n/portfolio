@@ -51,7 +51,7 @@ export const aboutPreview = {
 export const bio = [
   "I'm a data analyst and data scientist with a BEng in Electrical Engineering from the University of Nigeria, Nsukka. Engineering trained me to understand the inputs, trace the signal and make the output reliable. I bring the same habits to data.",
   "I like projects that get past the notebook stage. The Lagos rent predictor and the PDF chatbot are live apps anyone can try. In my PaySim project I tested the fraud rule once, on days it had never seen, so I could trust the number it gave.",
-  "I'm based in Abuja, Nigeria, and open to remote internships and junior roles in data science, data analysis, ML/AI and business analysis. I also take freelance work in data analysis, data science, AI/ML and BI.",
+  "I'm based in Abuja, Nigeria, and open to remote roles in data science, data analysis, ML/AI and business analysis. I also take freelance work in data analysis, data science, AI/ML and BI.",
 ];
 
 export const education = {
