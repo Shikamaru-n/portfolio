@@ -17,7 +17,7 @@ export const seo = {
     projects:
       "Data projects by Malachy Ugwu: a SQL Server fraud warehouse, an Excel lead-scoring model, a RAG chatbot and machine learning apps.",
     contact:
-      "Get in touch with Malachy Ugwu about data roles, internships or freelance data work.",
+      "Get in touch with Malachy Ugwu about remote data roles or freelance data work.",
   },
 };
 
